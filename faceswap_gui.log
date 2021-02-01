@@ -1,0 +1,3 @@
+12/15/2020 13:27:10 MainProcess     MainThread      logger          log_setup                 INFO     Log level set to: INFO
+12/15/2020 13:27:25 MainProcess     MainThread      font_manager    __init__                  INFO     Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: In FT2Font: Can not load face.  Unknown file format.
+12/15/2020 13:27:25 MainProcess     MainThread      config          save_config               INFO     Updating config at: '/home/vnurture/Vishvajeet/projects/tensorplace_repository/faceswap/test/faceswap/config/gui.ini'
